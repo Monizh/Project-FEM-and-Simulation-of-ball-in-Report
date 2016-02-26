@@ -1,0 +1,9 @@
+-IE:/Programming/gmlib/BUILD/include
+-IE:/Programming/glew_cmake_build/BUILD/release/include
+-DGM_GL_DEBUG
+-DGM_STREAM
+-DGLEW_STATIC
+-DWIN32
+-o
+E:/Programming/build-FEM-Desktop_Qt_5_4_2_MinGW_32bit-Release with Debug Information/moc_window.cpp
+E:/Programming/FEM/window.h

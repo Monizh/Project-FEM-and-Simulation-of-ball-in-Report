@@ -1,0 +1,1 @@
+../../../lib/libgmscene.dll.a ../../../lib/libgmopengl.dll.a ../../../lib/libgmcore.dll.a E:/Programming/FiniteElementMethod/glew_cmake_build/release/lib/libglew.a -lglu32 -lopengl32 -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32 

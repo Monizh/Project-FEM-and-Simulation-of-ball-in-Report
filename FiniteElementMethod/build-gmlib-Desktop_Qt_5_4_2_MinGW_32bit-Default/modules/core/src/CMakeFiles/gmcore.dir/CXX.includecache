@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+E:/Programming/FiniteElementMethod/gmlib/modules/core/src/utils/gmcolor.cpp
+gmcolor.h
+E:/Programming/FiniteElementMethod/gmlib/modules/core/src/utils/gmcolor.h
+
+E:/Programming/FiniteElementMethod/gmlib/modules/core/src/utils/gmcolor.h
+gmstream.h
+E:/Programming/FiniteElementMethod/gmlib/modules/core/src/utils/gmstream.h
+algorithm
+-
+
+E:/Programming/FiniteElementMethod/gmlib/modules/core/src/utils/gmstream.cpp
+gmstream.h
+E:/Programming/FiniteElementMethod/gmlib/modules/core/src/utils/gmstream.h
+
+E:/Programming/FiniteElementMethod/gmlib/modules/core/src/utils/gmstream.h
+iostream
+-
+

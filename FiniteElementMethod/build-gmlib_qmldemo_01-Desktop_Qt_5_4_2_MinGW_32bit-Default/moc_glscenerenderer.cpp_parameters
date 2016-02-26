@@ -1,0 +1,9 @@
+-IE:/Programming/FiniteElementMethod/build-gmlib-Desktop_Qt_5_4_2_MinGW_32bit-Default/include
+-IE:/Programming/FiniteElementMethod/glew_cmake_build/release/include
+-DGM_GL_DEBUG
+-DGM_STREAM
+-DGLEW_STATIC
+-DWIN32
+-o
+E:/Programming/FiniteElementMethod/build-gmlib_qmldemo_01-Desktop_Qt_5_4_2_MinGW_32bit-Default/moc_glscenerenderer.cpp
+E:/Programming/FiniteElementMethod/gmlib_qmldemo_01/glscenerenderer.h
